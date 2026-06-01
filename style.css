@@ -389,7 +389,7 @@ h3.person-name {
   align-items: center;
   gap: 0.55rem;
   text-align: center;
-  width: 120px;
+  width: 220px;
 }
  
 .member-card .person-name {
@@ -400,8 +400,8 @@ h3.person-name {
 }
  
 .member-card .person-role {
-  font-size: 0.75rem;
-  color: var(--muted);
+  font-size: 0.85rem;
+  color: var(--dark);
   margin: 0;
 }
 
@@ -434,8 +434,8 @@ h3.person-name {
 }
  
 .alumni-note {
-  color: var(--muted);
-  font-size: 0.88rem;
+  color: var(--dark);
+  font-size: 0.85rem;
 }
  
 /* =============================================
